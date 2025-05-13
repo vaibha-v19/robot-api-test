@@ -1,0 +1,5 @@
+base_url =       'https://reqres.in'
+endpoint =       '/api/users/599'
+endpoint1=        '/api/users?page=2'
+expected_content_type=    'application/json; charset=utf-8'
+api_key   =      'reqres-free-v1'
